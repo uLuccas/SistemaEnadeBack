@@ -1,0 +1,24 @@
+{
+  "name": "enade-back",
+  "version": "1.0.0",
+  "description": "API SevenGenius",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://uLuccas@bitbucket.org/uluccas/enade-back.git"
+  },
+  "author": "Luccas, Isadora",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/uluccas/enade-back#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.4",
+    "mysql2": "^2.3.3"
+  }
+}
